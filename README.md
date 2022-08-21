@@ -8,6 +8,9 @@ Ghost is a free and open source blogging platform and distributed under the MIT 
 
 This Repo will allow you to deploy an Auto Scaling group and RDS using Terraform for high availability and ease of management. It is free tier eligible if you use the right instance sizes.
 
+## Diagram
+![image](https://user-images.githubusercontent.com/6794997/185813163-5ffecd2a-0f09-4266-ba56-ecb75be3e951.png)
+
 # Requirements
 
 * An AWS account
